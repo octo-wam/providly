@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email = ['veneziajeremy@gmail.com']
 
   spec.summary = %q{Simple ruby gem that checks if email domain name is a provider.}
-  spec.description = %q{Simple ruby gem that checks if email domain name is a provider.}
+  spec.description = %q{Providly is a simple ruby gem that checks if email domain name is a provider.}
   spec.homepage = 'https://github.com/elcurator/providly'
   spec.license = 'MIT'
 
@@ -21,5 +21,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency 'bundler', '~> 1.10'
   spec.add_development_dependency 'rake', '~> 10.0'
-  spec.add_development_dependency 'rspec'
+  spec.add_development_dependency 'rspec', '~> 0'
 end

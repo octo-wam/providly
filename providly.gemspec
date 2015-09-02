@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors = ['Jeremy Venezia']
   spec.email = ['veneziajeremy@gmail.com']
 
-  spec.summary = %q{Simple gem that checks if email domain name is a provider.}
-  spec.description = %q{Simple gem that checks if email domain name is a provider.}
+  spec.summary = %q{Simple ruby gem that checks if email domain name is a provider.}
+  spec.description = %q{Simple ruby gem that checks if email domain name is a provider.}
   spec.homepage = 'https://github.com/elcurator/providly'
   spec.license = 'MIT'
 

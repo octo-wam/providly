@@ -1,0 +1,3 @@
+module Providly
+  VERSION = '0.0.1'
+end

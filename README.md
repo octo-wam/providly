@@ -1,5 +1,8 @@
 # Providly
 
+[![Gem Version](https://badge.fury.io/rb/providly.svg)](http://badge.fury.io/rb/providly)
+[![Build Status](https://travis-ci.org/elcurator/providly.svg)](https://travis-ci.org/elcurator/providly)
+
 Providly is a simple ruby gem that checks if email domain name is a provider.
 
 ## Installation

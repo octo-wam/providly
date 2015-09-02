@@ -21,6 +21,13 @@ Providly.email_uses_provider? 'email@gmail.com' # => true
 Providly.email_uses_provider? 'email@elcurator.net' # => false
 ```
 
+## Provider domains list
+
+Provider list is a simple text file with known providers:
+[lib/providly/provider_domains.txt](https://github.com/elcurator/providly/blob/master/lib/providly/provider_domains.txt)
+
+If you want to add providers, please make an Issue or a Pull Request.
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub.

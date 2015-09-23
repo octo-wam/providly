@@ -2817,6 +2817,7 @@ operamail.com
 optician.com
 optonline.net
 optusnet.com.au
+orange.fr
 orbitel.bg
 orgmail.net
 osite.com.br
@@ -3440,6 +3441,7 @@ wahoye.com
 wales2000.net
 wam.co.za
 wanadoo.es
+wanadoo.fr
 warmmail.com
 warpmail.net
 warrior.hu

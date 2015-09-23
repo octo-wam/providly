@@ -203,6 +203,7 @@ baseballmail.com
 basketballmail.com
 batuta.net
 baudoinconsulting.com
+bbox.fr
 bboy.zzn.com
 bcvibes.com
 beeebank.com
@@ -392,6 +393,7 @@ classicmail.co.za
 clerk.com
 cliffhanger.com
 close2you.net
+club-internet.fr
 club4x4.net
 clubalfa.com
 clubbers.net
@@ -1005,6 +1007,7 @@ iamwaiting.com
 iamwasted.com
 iamyours.com
 icestorm.com
+icloud.com
 icmsconsultants.com
 icq.com
 icqmail.com
@@ -1201,6 +1204,7 @@ liquidinformation.net
 list.ru
 littleblueroom.com
 live.com
+live.fr
 liverpoolfans.com
 llandudno.com
 llangollen.com
@@ -2756,6 +2760,7 @@ netster.com
 nettaxi.com
 netzero.com
 netzero.net
+neuf.fr
 newmail.com
 newmail.net
 newmail.ru
@@ -2817,6 +2822,7 @@ operamail.com
 optician.com
 optonline.net
 optusnet.com.au
+orange.com
 orange.fr
 orbitel.bg
 orgmail.net
@@ -2830,6 +2836,8 @@ ourbrisbane.com
 ournet.md
 outel.com
 outgun.com
+outlook.com
+outlook.fr
 over-the-rainbow.com
 ownmail.net
 ozbytes.net.au
@@ -3060,6 +3068,8 @@ servemymail.com
 sesmail.com
 sexmagnet.com
 seznam.cz
+sfr.com
+sfr.fr
 shahweb.net
 shaniastuff.com
 sharewaredevelopers.com
@@ -3429,6 +3439,8 @@ vjmail.com
 vjtimail.com
 vlmail.com
 vnn.vn
+voila.fr
+voila.fr
 volcanomail.com
 vote-democrats.com
 vote-hillary.com
@@ -3575,6 +3587,7 @@ yifan.net
 ymail.com
 ynnmail.com
 yogotemail.com
+yopmail.fr
 yopolis.com
 youareadork.com
 youpy.com

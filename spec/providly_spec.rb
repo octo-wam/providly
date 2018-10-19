@@ -9,7 +9,7 @@ describe Providly do
     it { expect(Providly.email_uses_provider? 'email@gmail.com').to be true }
     it { expect(Providly.email_uses_provider? 'email@elcurator.net').to be false }
 
-    it 'deals with email domain that includew provider_domain' do
+    it 'deals with relevant email domain including part of a provider domain (cs.com)' do
       expect(Providly.email_uses_provider? 'email@analytics.com').to be false
     end
   end

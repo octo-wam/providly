@@ -6,8 +6,8 @@ require 'providly/version'
 Gem::Specification.new do |spec|
   spec.name = 'providly'
   spec.version = Providly::VERSION
-  spec.authors = ['Jeremy Venezia']
-  spec.email = ['veneziajeremy@gmail.com']
+  spec.authors = ['Jeremy Venezia', 'Arnaud Doucerain']
+  spec.email = ['contact@elcurator.net']
 
   spec.summary = %q{Simple ruby gem that checks if email domain name is a provider.}
   spec.description = %q{Providly is a simple ruby gem that checks if email domain name is a provider.}

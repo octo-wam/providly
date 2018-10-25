@@ -20,4 +20,11 @@ describe Providly do
     it { is_expected.to be_an(Array) }
     it { is_expected.to include('gmail.com') }
   end
+
+  describe '#disposable_domains' do
+    subject { Providly.send(:disposable_domains) }
+
+    it { is_expected.to be_an(Array) }
+    it { is_expected.to include('00b2bcr51qv59xst2.cf') }
+  end
 end
